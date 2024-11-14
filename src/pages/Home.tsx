@@ -5,6 +5,7 @@ export function Home() {
         <>
             <form action="">
                 <div>
+                    <h1>Pomodoro</h1>
                     <label htmlFor="task">vou trabalhar em </label>
                     <input id="task" />
                     <label htmlFor="minutesAmount">durante</label>
